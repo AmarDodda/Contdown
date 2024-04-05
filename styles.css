@@ -1,0 +1,11 @@
+body {
+    background-color: grey; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  #countdown {
+    font-size: 48px;
+    text-align: center;
+  }
